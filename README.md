@@ -14,8 +14,8 @@ This is a simple and efficient CLI-based installer for ApkTool on Kali Linux. Th
 ## 🔧 Installation
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/apktool-installer.git
-cd apktool-installer
+git clone https://github.com/kinghacker0/Apktool
+cd Apktool
 ```
 
 ### Step 2: Run the Installer Script
