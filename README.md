@@ -1,6 +1,6 @@
 # ApkTool Installer for Kali Linux
 
-![ApkTool Banner](https://your-image-url.com/banner.png)
+![ApkTool Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREfGnBcc7UaiNZiyPhbPA2tnsZag9cyfX13A&s)
 
 ## 📌 Overview
 This is a simple and efficient CLI-based installer for ApkTool on Kali Linux. The script automates the downloading and installation of ApkTool, ensuring a smooth setup process.
